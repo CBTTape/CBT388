@@ -1,0 +1,21 @@
+2023-08-06 03:48:41.160234 - Initialized conversion of CBT388
+2023-08-06 03:48:41.344130 - Received CBT.V505.FILE388.PDS from FILE388.XMI 
+2023-08-06 03:48:41.346548 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:48:41.347709 - Found $$DOC.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/$$DOC
+2023-08-06 03:48:41.348755 - Found @FILE388.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/@FILE388
+2023-08-06 03:48:41.349676 - Found ASMFGSAM.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/ASMFGSAM
+2023-08-06 03:48:41.350620 - Found ASMSCHED.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/ASMSCHED
+2023-08-06 03:48:41.351510 - Found ASMSRUN.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/ASMSRUN
+2023-08-06 03:48:41.352317 - Found DESCRIBE.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/DESCRIBE
+2023-08-06 03:48:41.353142 - Found EXPORT.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/EXPORT
+2023-08-06 03:48:41.353152 - Found FAKEGSAM.bin containing application/octet-stream, moved to PDS/FAKEGSAM
+2023-08-06 03:48:41.354984 - Found FGSAM.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/FGSAM
+2023-08-06 03:48:41.355796 - Found GSAMCALL.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/GSAMCALL
+2023-08-06 03:48:41.356583 - Found GSB.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/GSB
+2023-08-06 03:48:41.357399 - Found OLD8FR.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/OLD8FR
+2023-08-06 03:48:41.358347 - Found SCHEDALC.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/SCHEDALC
+2023-08-06 03:48:41.358355 - Found SCHEDRUN.bin containing application/octet-stream, moved to PDS/SCHEDRUN
+2023-08-06 03:48:41.359317 - Found SCHEDULE.bin containing application/octet-stream, moved to PDS/SCHEDULE
+2023-08-06 03:48:41.361136 - Found SFR.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/SFR
+2023-08-06 03:48:41.362116 - Found SRUNPROC.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/SRUNPROC
+2023-08-06 03:48:41.363073 - Found TSOHELP.txt (text/plain) in CBT.V505.FILE388.PDS, moved to PDS/TSOHELP
